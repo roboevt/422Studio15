@@ -1,0 +1,1 @@
+cmd_/home/roboevt/dev/422/15-studio/Module.symvers := sed 's/ko$$/o/' /home/roboevt/dev/422/15-studio/modules.order | scripts/mod/modpost -m -a   -o /home/roboevt/dev/422/15-studio/Module.symvers -e -i Module.symvers   -T -

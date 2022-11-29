@@ -1,0 +1,1 @@
+cmd_/home/roboevt/dev/422/15-studio/studio15.ko := arm-linux-gnueabihf-ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/roboevt/dev/422/15-studio/studio15.ko /home/roboevt/dev/422/15-studio/studio15.o /home/roboevt/dev/422/15-studio/studio15.mod.o;  true
